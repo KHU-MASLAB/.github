@@ -1,4 +1,4 @@
-### Welcome to Modeling and Simulation (M&S) lab (Jin-Gyun Kim's group)  
+### Welcome to Modeling and Simulation (M&S) lab (Jin-Gyun Kim's group) Github. 
 
 We are in Department of Mechanical Engineering at Kyung Hee University. We develop computational modeling and simulation  methods of structures based on classical mechanics, in particular, for dynamics and vibration.
 Our current academic focus is to develop numerical methods for the following issues:  
