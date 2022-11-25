@@ -6,6 +6,6 @@ Our current academic focus is to develop numerical methods for the following iss
 * ***Multi-physics M&S***  
 * ***Data driven M&S (In particular, for digital twin, virtual sensing and real-time simulation)***  
 * ***Engineering applications***  
-We also tackle broad range projects of vibration, dynamics and CAE issues with both academic and industrial partners. For more information, visit our [website](https://sites.google.com/site/modelingnsimulation).
+We also tackle broad range projects of vibration, dynamics and CAE issues with both academic and industrial partners. For more information, please visit our [website](https://sites.google.com/site/modelingnsimulation).
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKHU-MASLAB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
